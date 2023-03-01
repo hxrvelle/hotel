@@ -20,8 +20,3 @@ public class Main {
         }
     }
 }
-
-/*
-ДЗ:
-скачать git
- */
